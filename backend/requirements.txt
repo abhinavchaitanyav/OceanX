@@ -1,0 +1,8 @@
+# OceanX Virtual Ocean Observation Platform Backend Dependencies
+# Smart India Hackathon 2026 (Problem Statement 26065)
+flask>=3.0.0
+fastapi>=0.110.0
+uvicorn>=0.28.0
+pydantic>=2.6.0
+numpy>=1.26.0
+scikit-learn>=1.4.0
